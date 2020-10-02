@@ -1,2 +1,4 @@
 # scrappers
-scrappers for assamese Wikipedia 
+scrappers for :
+1.assamese Wikipedia 
+2. Xahitya.org
