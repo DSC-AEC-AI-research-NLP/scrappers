@@ -1,4 +1,4 @@
 # scrappers
 scrappers for :
 1.assamese Wikipedia 
-2. Xahitya.org
+2.xurorenajori.info
